@@ -1,0 +1,21 @@
+.name {
+  width: 100vw;
+  text-align: center;
+}
+
+.container {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  margin: 15px;
+  justify-content: center;
+}
+
+.canvas {
+  margin: auto;
+}
